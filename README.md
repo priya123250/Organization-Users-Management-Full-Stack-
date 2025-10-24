@@ -107,7 +107,7 @@ Organization & Users Management/
 ## 🔧 Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/priya123250/Organization & Users management (Full Stack).git
+git clone https://github.com/priya123250/Organization-Users-Management-Full-Stack-.git
 cd "Organization & Users Management"
 
 text
